@@ -1,0 +1,13 @@
+Q:-What is protocol?
+Ans-it is set of implemented rules at both ends of the communications channel for the proper exchange of information.
+
+Q:-What is domain?
+Ans-it is the name of a website.
+   -it is what comes after www. in a web address.
+
+Q:-What is SEO?
+Ans-SEO means "search engine optimization" 
+   -SEO means the process of improving your website to increase its visibility in any     search engines.
+
+Q:-What is javascript?
+Ans-it is a text based programming language that you can use from server side and client side in your .net applications.
